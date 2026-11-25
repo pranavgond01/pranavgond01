@@ -1,5 +1,7 @@
+
 # 💫 About Me:
-🔭 I’m currently working on **Interactive 3D Web Experiences (Three.js/WebGL) & Production-Grade Web Applications**<br>👯 I’m looking to collaborate on **High-Performance Web Systems, Open-Source Tools, and Complex Frontend Projects**<br>🤝 I’m looking for help with **Low-Level Web Performance & WebAssembly (Wasm) Integration**<br>🌱 I’m currently learning **Advanced Shader Programming (GLSL) & Multi-Agent AI Architectures**<br>💬 Ask me about **Three.js, Full-Stack Architecture, WebSockets, and Custom Web Solutions**<br>⚡ Fun fact **My code works on the first try... as long as nobody is watching.**
+🔭 I’m currently working on **Real-Time AI Surveillance Systems (`Smart Campus Vision`), Peer-to-Peer Web Apps (`DropLink`), & Full-Stack AI Platforms (`InterviewAI`)**<br>👯 I’m looking to collaborate on **Real-Time Web Systems, Computer Vision Pipelines, Open-Source Tools, and Cross-Platform Apps**<br>🤝 I’m looking for help with **Edge AI Model Optimization (ONNX/TensorRT) & Scalable WebRTC/TURN Infrastructure**<br>🌱 I’m currently learning **Distributed Systems Architecture, Advanced NLP/Semantic Search, & Production DevOps (Docker/CI-CD)**<br>💬 Ask me about **React, Next.js, TypeScript, FastAPI, Node.js, WebRTC, WebSockets, OpenCV, and Flutter**<br>⚡ Fun fact **My code works on the first try... as long as nobody is watching.**
+
 
 
 ## 🌐 Socials:
